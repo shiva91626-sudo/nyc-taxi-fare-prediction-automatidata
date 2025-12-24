@@ -45,14 +45,19 @@ Model-ready and BI-ready datasets were exported as CSV.
 🤖 Machine Learning Model
 
 Model: Random Forest Regression
+
 Performance:
 
 Metric	Score
+
 R²	0.974
+
 MAE	0.43
+
 RMSE	1.71
 
 OLS was used only for statistical diagnostics.
+
 Random Forest selected due to strong non-linear relationships.
 
 📊 Tableau (Model Evaluation)
@@ -70,6 +75,8 @@ Error analysis
 Outlier detection for long-distance trips
 
 Tableau helped validate model behavior before final BI reporting.
+<img width="1329" height="712" alt="Model Evaluation Dashboard" src="https://github.com/user-attachments/assets/2a26b39f-413c-4fa0-b00c-f75599483302" />
+
 
 📈 Power BI Dashboard (Business Intelligence Layer)
 
@@ -90,6 +97,10 @@ Time of Day Insights
 Decomposition Tree
 
 The dashboard supports decision-making for operations, pricing, and anomaly monitoring.
+<img width="1279" height="721" alt="Dashboard" src="https://github.com/user-attachments/assets/e248ce81-cdce-48b0-8798-0f66c9910948" />
+<img width="1271" height="717" alt="Deep Dive" src="https://github.com/user-attachments/assets/dca4bfdd-1f23-4b72-a3fd-fbd52d419c01" />
+
+
 
 💡 Key Insights
 
@@ -120,10 +131,15 @@ Build promotions for the stable, medium-fare rider segment.
 All project deliverables are included in the /reports folder:
 
 ✔ Full Case Study
+
 ✔ 7 Report of Progress
+
 ✔ Tableau Dashboard
+
 ✔ Power BI Dashboard
+
 ✔ Cleaned Datasets
+
 ✔ Random Forest Model
 
 📬 Author
